@@ -9,3 +9,4 @@
 7. [BOJ1874_스택수열](https://www.acmicpc.net/problem/1874)
 8. [BOJ1935_후기표기식2](https://www.acmicpc.net/problem/1935)
 9. [BOJ10799_쇠막대기](https://www.acmicpc.net/problem/10799)
+10. [BOJ1966_프린터 큐](https://www.acmicpc.net/problem/1966)
