@@ -1,7 +1,5 @@
 package programmers
 
-import java.util.*
-
 class Solution {
     fun solution(players: Array<String>, callings: Array<String>): Array<String> {
         val runnerByRank = players.mapIndexed { index, s -> index to s }.toMap().toMutableMap()
