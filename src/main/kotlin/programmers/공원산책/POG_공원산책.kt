@@ -23,17 +23,9 @@ class Solution {
         return intArrayOf(y, x)
     }
 
-    private fun checkX(park: Array<String>, startX: Int, targetX: Int, y: Int): Boolean {
-        val isContainX = (startX until targetX).all { x -> park[y][x] != 'X' }
-        val isInPark = startX >= 0 && targetX < park[0].length
-        return isContainX && isInPark
-    }
+    private fun checkX(park: Array<String>, startX: Int, targetX: Int, y: Int) = startX >= 0 && targetX < park[0].length && (startX .. targetX).all { x -> park[y][x] != 'X' }
 
-    private fun checkY(park: Array<String>, startY: Int, targetY: Int, x: Int): Boolean {
-        val isContainX = (startY until targetY).all { y -> park[y][x] != 'X' }
-        val isInPark = startY >= 0 && targetY < park.size
-        return isContainX && isInPark
-    }
+    private fun checkY(park: Array<String>, startY: Int, targetY: Int, x: Int) = startY >= 0 && targetY < park.size && (startY .. targetY).all { y -> park[y][x] != 'X' }
 }
 
 fun main() {
