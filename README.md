@@ -15,4 +15,5 @@
 ---
 # Programmers
 ## Level 1
-1. [POG_달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871?language=kotlin)
+1. [POG_달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
+2. [POG_공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
