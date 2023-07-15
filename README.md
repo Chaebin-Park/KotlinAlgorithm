@@ -17,3 +17,5 @@
 ## Level 1
 1. [POG_달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
 2. [POG_공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
+3. [POG_추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)
+4. [POG_개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
