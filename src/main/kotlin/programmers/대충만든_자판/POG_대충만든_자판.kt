@@ -15,8 +15,12 @@ class Solution {
             keyCountMap[key] = index + 1
         }
 
-        targets.forEach { target ->
+        targets.forEach out@ { target ->
             var result = 0
+            target.forEach { key -> if(!keyCountMap.containsKey(key)) {
+                answer.add(-1)
+                return@out
+            } }
             target.forEach { key -> result += keyCountMap[key] ?: Int.MIN_VALUE }
             answer.add(result.takeIf { it > 0 } ?: -1)
         }
