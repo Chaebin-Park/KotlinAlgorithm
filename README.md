@@ -14,6 +14,11 @@
 
 ---
 # Programmers
+## Level 0
+1. [POG_겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)
+2. [POG_안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)
+3. [POG_옹알이(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)
+
 ## Level 1
 1. [POG_달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
 2. [POG_공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
@@ -21,4 +26,5 @@
 4. [POG_개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
 5. [POG_부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)
 6. [POG_성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
-7. [POG_바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
+7. [POG_대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)
+8. [POG_바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
