@@ -1,4 +1,4 @@
-package programmers.평행
+package programmers.level0.평행
 
 import kotlin.math.abs
 

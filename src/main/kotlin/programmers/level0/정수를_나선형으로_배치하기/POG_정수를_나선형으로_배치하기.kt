@@ -1,4 +1,4 @@
-package programmers.정수를_나선형으로_배치하기
+package programmers.level0.정수를_나선형으로_배치하기
 
 import java.util.ArrayList
 

@@ -1,4 +1,4 @@
-package programmers.개인정보_수집_유효기간
+package programmers.level1.개인정보_수집_유효기간
 
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter

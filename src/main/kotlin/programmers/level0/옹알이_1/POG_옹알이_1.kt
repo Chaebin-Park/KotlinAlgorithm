@@ -1,4 +1,4 @@
-package programmers.옹알이
+package programmers.level0.옹알이_1
 
 class Solution {
     fun solution(babbling: Array<String>): Int {

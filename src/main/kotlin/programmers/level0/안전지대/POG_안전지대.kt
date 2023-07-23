@@ -1,4 +1,4 @@
-package programmers.안전지대
+package programmers.level0.안전지대
 
 class Solution {
     fun solution(board: Array<IntArray>): Int {

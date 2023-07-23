@@ -1,4 +1,4 @@
-package programmers.겹치는_선분의_길이
+package programmers.level0.겹치는_선분의_길이
 
 import java.util.*
 

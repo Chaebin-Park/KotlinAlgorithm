@@ -1,4 +1,4 @@
-package programmers.부족한_금액_계산하기
+package programmers.level1.부족한_금액_계산하기
 
 class Solution {
     fun solution(price: Int, money: Int, count: Int): Long {

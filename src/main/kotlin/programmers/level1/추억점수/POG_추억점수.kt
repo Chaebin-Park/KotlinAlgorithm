@@ -1,4 +1,4 @@
-package programmers.추억점수
+package programmers.level1.추억점수
 
 class Solution {
     fun solution(name: Array<String>, yearning: IntArray, photo: Array<Array<String>>): IntArray {

@@ -1,4 +1,4 @@
-package programmers.공원산책
+package programmers.level1.공원산책
 
 class Solution {
     fun solution(park: Array<String>, routes: Array<String>): IntArray {

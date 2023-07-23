@@ -1,4 +1,4 @@
-package programmers.성격_유형_검사하기
+package programmers.level1.성격_유형_검사하기
 
 class Solution {
     fun solution(survey: Array<String>, choices: IntArray): String {

@@ -1,4 +1,4 @@
-package programmers.바탕화면_정리
+package programmers.level1.바탕화면_정리
 
 class Solution {
     fun solution(wallpaper: Array<String>): IntArray {
