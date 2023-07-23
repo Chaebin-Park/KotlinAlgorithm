@@ -30,3 +30,4 @@
 6. [POG_성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
 7. [POG_대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)
 8. [POG_바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
+9. [POG_평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)
