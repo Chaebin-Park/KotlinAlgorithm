@@ -31,3 +31,4 @@
 7. [POG_대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)
 8. [POG_바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
 9. [POG_평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)
+10. [POG_나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/1873894)
