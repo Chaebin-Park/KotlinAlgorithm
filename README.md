@@ -18,6 +18,7 @@
 1. [POG_겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)
 2. [POG_안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)
 3. [POG_옹알이(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)
+4. [POG_평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
 
 ## Level 1
 1. [POG_달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
