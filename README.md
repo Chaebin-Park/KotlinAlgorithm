@@ -19,6 +19,7 @@
 2. [POG_안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)
 3. [POG_옹알이(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)
 4. [POG_평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
+5. [POG_정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832)
 
 ## Level 1
 1. [POG_달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
