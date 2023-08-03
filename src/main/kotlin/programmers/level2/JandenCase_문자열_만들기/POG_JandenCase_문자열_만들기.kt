@@ -1,4 +1,4 @@
-package programmers.level1.JandenCase_문자열_만들기
+package programmers.level2.JandenCase_문자열_만들기
 
 class Solution {
     fun solution(s: String): String = s.split(" ").joinToString(" ") { word -> word.lowercase().replaceFirstChar { c -> c.uppercase() } }

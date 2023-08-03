@@ -1,4 +1,4 @@
-package programmers.level1.최댓값과_최솟값
+package programmers.level2.최댓값과_최솟값
 
 class Solution {
     fun solution(s: String): String = s.split(" ").map { it.toInt() }.let { map -> "${map.minOf{it}} ${map.maxOf{it}}" }

@@ -32,5 +32,7 @@
 8. [POG_바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
 9. [POG_평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)
 10. [POG_나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/1873894)
-11. [POG_최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
-12. [POG_JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+
+## Level2
+1. [POG_최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
+2. [POG_JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
