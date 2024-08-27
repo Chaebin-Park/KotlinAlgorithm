@@ -31,9 +31,7 @@ class Solution {
             }
         }
 
-        val result = nextMonth.maxOf { it.value }
-        println(result)
-        return result
+        return nextMonth.maxOf { it.value }
     }
 }
 
